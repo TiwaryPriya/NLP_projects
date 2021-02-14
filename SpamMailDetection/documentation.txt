@@ -1,0 +1,2 @@
+The project is for detecting spam mails.
+I have used TFIDF for the same along with different ML alogirthms.
