@@ -1,1 +1,2 @@
 
+The project is a fake news classifier model which uses LSTM as well as Word embeddings.
